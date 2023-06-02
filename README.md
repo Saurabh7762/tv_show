@@ -1,3 +1,15 @@
+#TV Show Application
+The TV Show Application is a React application that allows users to browse and search for TV shows. It provides a ShowList component that displays a list of TV shows with their details and a BookingForm component for users to book tickets for a show.
+
+https://ephemeral-malabi-13b605.netlify.app/
+
+
+#Acknowledgments
+The TV Show Application is built using React, Axios, and CSS.
+The TV show data is obtained from the TVmaze API (https://www.tvmaze.com/api).
+The BookingForm component is inspired by various online booking forms.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
